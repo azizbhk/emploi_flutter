@@ -1,0 +1,137 @@
+  {
+
+  "classes": [
+    {
+      "id": 1,
+      "name": "Mathematics"
+    },
+    {
+      "id": 2,
+      "name": "Physics"
+    },
+    {
+      "id": 3,
+      "name": "Computer Science"
+    },
+    {
+      "id": 4,
+      "name": "Chemistry"
+    },
+    {
+      "id": 5,
+      "name": "Literature"
+    },
+    {
+      "id": 6,
+      "name": "Philosophy"
+    }
+  ],
+  "professors": [
+    {
+      "id": 1,
+      "name": "Dr. John Doe"
+    },
+    {
+      "id": 2,
+      "name": "Dr. Jane Smith"
+    },
+    {
+      "id": 3,
+      "name": "Dr. Albert Brown"
+    },
+    {
+      "id": 4,
+      "name": "Dr. Emily Green"
+    },
+    {
+      "id": 5,
+      "name": "Dr. Mark White"
+    },
+    {
+      "id": 6,
+      "name": "Dr. Lisa Black"
+    }
+  ],
+  "seances": [
+    {
+      "id": 1,
+      "day": "Monday",
+      "time": "08:00 - 10:00",
+      "classId": 1,
+      "professorId": 1,
+      "room": "A101"
+    },
+    {
+      "id": 2,
+      "day": "Monday",
+      "time": "10:00 - 12:00",
+      "classId": 2,
+      "professorId": 2,
+      "room": "B202"
+    },
+    {
+      "id": 3,
+      "day": "Monday",
+      "time": "12:00 - 14:00",
+      "classId": null,
+      "professorId": null,
+      "room": null
+    },
+    {
+      "id": 4,
+      "day": "Monday",
+      "time": "14:00 - 16:00",
+      "classId": 3,
+      "professorId": 3,
+      "room": "C303"
+    },
+    {
+      "id": 5,
+      "day": "Monday",
+      "time": "16:00 - 18:00",
+      "classId": 3,
+      "professorId": 3,
+      "room": "C303"
+    },
+    {
+      "id": 6,
+      "day": "Tuesday",
+      "time": "08:00 - 10:00",
+      "classId": 4,
+      "professorId": 4,
+      "room": "D404"
+    },
+    {
+      "id": 7,
+      "day": "Tuesday",
+      "time": "10:00 - 12:00",
+      "classId": null,
+      "professorId": null,
+      "room": null
+    },
+    {
+      "id": 8,
+      "day": "Tuesday",
+      "time": "12:00 - 14:00",
+      "classId": 5,
+      "professorId": 5,
+      "room": "E505"
+    },
+    {
+      "id": 9,
+      "day": "Tuesday",
+      "time": "14:00 - 16:00",
+      "classId": null,
+      "professorId": null,
+      "room": null
+    },
+    {
+      "id": 10,
+      "day": "Tuesday",
+      "time": "16:00 - 18:00",
+      "classId": 6,
+      "professorId": 6,
+      "room": "F606"
+    }
+  ]
+}
